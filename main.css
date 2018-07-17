@@ -46,6 +46,19 @@ p{
 .brand-name{
   font-size: 40px;
 }
+a{
+  font-size:20px;
+  line-height: 3em;
+  color: black;
+  padding-right: 10px;
+}
+a:hover{
+  text-decoration: none;
+}
+.btn{
+  background-repeat: none;
+  background-image: none;
+}
 @media only screen
   and (max-width: 480px){
 
